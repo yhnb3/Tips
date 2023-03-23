@@ -2,4 +2,4 @@
 
 ### Design
 
-- [Scroll Snap API](/Design/ScrollSnapApi.md)
+- [Scroll Snap API](https://github.com/yhnb3/Tips/blob/main/Design/ScrollSnapApi.md)
